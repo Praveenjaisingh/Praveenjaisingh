@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Praveenjaisingh/Praveenjaisingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -101,4 +100,4 @@ Developed a full-stack agricultural e-commerce platform for farmers and buyers u
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
