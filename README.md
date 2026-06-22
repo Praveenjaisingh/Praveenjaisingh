@@ -2,7 +2,7 @@
 
 # Praveen J
 
-### Backend Developer · Full-Stack Engineer · AI Enthusiast
+### Backend Developer · Full-Stack Engineer 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-seven-blond-mvipujv79o.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Praveen-j-37b64632b)
