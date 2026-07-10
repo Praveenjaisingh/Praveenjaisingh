@@ -64,6 +64,7 @@ Backend Developer at **Cloud Revel Innovations**, building scalable web applicat
 | 🧠 **Self-AI Assistant** | AI-powered productivity and automation assistant | [View →](https://self-ai-seven.vercel.app/) |
 | 🏙️ **Explore City** | Responsive city exploration app showcasing tourist spots and local info | [View →](https://explore-city-phi.vercel.app/) |
 | 🌐 **IP Location Tracker** | Location tracking application powered by IP Address APIs | [View →](https://ip-bice-rho.vercel.app/) |
+| 📊 **GitHub Repository Analytics** | Repository analytics dashboard that provides GitHub insights, including commits, contributors, languages, stars, forks, and repository statistics using GitHub APIs | [View →](https://git-hub-repository-analytics-backen.vercel.app/) |
 | 💼 **Portfolio Website** | Personal portfolio showcasing projects, skills, and professional journey | [View →](https://portfolio-seven-blond-mvipujv79o.vercel.app/) |
 
 ---
