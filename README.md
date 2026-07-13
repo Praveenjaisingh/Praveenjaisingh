@@ -136,11 +136,11 @@ I'm a **Backend Developer** at **Cloud Revel Innovations**, building scalable we
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenjaisingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenjaisingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> -->
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenjaisingh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenjaisingh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> -->
 
 </div>
 
