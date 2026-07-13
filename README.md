@@ -131,16 +131,16 @@ I'm a **Backend Developer** at **Cloud Revel Innovations**, building scalable we
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Praveenjaisingh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Praveen's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenjaisingh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Praveenjaisingh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Praveen's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenjaisingh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" /> -->
 
 <br/>
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenjaisingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenjaisingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> 
 
 <br/>
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenjaisingh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> -->
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenjaisingh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> 
 
 </div>
 
