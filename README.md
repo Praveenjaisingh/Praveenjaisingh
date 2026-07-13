@@ -20,7 +20,7 @@ Backend Developer at **Cloud Revel Innovations**, building scalable web applicat
 - 🏢 Currently working at **Cloud Revel Innovations**
 - 🌱 Deepening expertise in **System Design**, **Cloud Technologies**, and **Generative AI**
 - 🎯 Focused on crafting impactful, real-world software solutions
-- 📍 Based in **Madurai, Tamil Nadu, India**
+- 📍 Based in **Chennai, Tamil Nadu, India**
 
 ---
 
