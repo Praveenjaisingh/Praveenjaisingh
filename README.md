@@ -19,16 +19,6 @@
 
 I'm a **Backend Developer** at **Cloud Revel Innovations**, building scalable web applications, REST APIs, and database-driven solutions. I'm driven by clean architecture, developer efficiency, and the growing intersection of AI with modern software systems.
 
-```javascript
-const praveen = {
-    role: "Backend Developer @ Cloud Revel Innovations",
-    location: "Chennai, Tamil Nadu, India",
-    currentlyLearning: ["System Design", "Cloud Technologies", "Generative AI"],
-    focus: "Crafting impactful, real-world software solutions",
-    funFact: "I turn coffee into clean, scalable APIs ☕"
-};
-```
-
 - 🏢 Currently working at **Cloud Revel Innovations**
 - 🌱 Deepening expertise in **System Design**, **Cloud Technologies**, and **Generative AI**
 - 🎯 Focused on crafting impactful, real-world software solutions
