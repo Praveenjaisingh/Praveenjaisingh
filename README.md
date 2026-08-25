@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Praveen+J+%F0%9F%91%8B;Backend+Developer;Full-Stack+Engineer;Building+scalable+web+applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Praveen+J+%F0%9F%91%8B;Full+Stack+Developer;Backend+Developer;Building+scalable+web+applications" alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-seven-blond-mvipujv79o.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Praveen-j-37b64632b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praveenjaisingh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveendp146@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveendp143@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Praveenjaisingh&color=00ADB5&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -17,13 +17,14 @@
 
 ## 👋 About Me
 
-I'm a **Backend Developer** at **Cloud Revel Innovations**, building scalable web applications, REST APIs, and database-driven solutions. I'm driven by clean architecture, developer efficiency, and the growing intersection of AI with modern software systems.
+I'm a **Full Stack / Backend Developer** currently working at **Cloud Revel Innovations**, building scalable web applications, REST APIs, and database-driven solutions. I'm driven by clean architecture, developer efficiency, and the growing intersection of AI with modern software systems.
 
 - 🏢 Currently working at **Cloud Revel Innovations**
 - 🌱 Deepening expertise in **System Design**, **Cloud Technologies**, and **Generative AI**
 - 🎯 Focused on crafting impactful, real-world software solutions
-- 📍 Based in **Chennai, Tamil Nadu, India**
-- 📫 Reach me at **praveendp146@gmail.com**
+- 📍 Based in **Madurai, Tamil Nadu, India**
+- 📫 Reach me at **praveendp143@gmail.com**
+- 🟢 Open to full-time roles — remote or on-site
 
 <br/>
 
@@ -48,6 +49,7 @@ I'm a **Backend Developer** at **Cloud Revel Innovations**, building scalable we
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Tools & Platforms**
 
@@ -64,6 +66,18 @@ I'm a **Backend Developer** at **Cloud Revel Innovations**, building scalable we
 ## 🚀 Featured Projects
 
 <table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌉 SkillBridge</h3>
+      <p align="center">Platform bridging the gap between users' current skills and the skills/opportunities they need for academic and professional goals</p>
+      <p align="center"><a href="https://skill-bridge-nine-sigma.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 GitHub Repository Analytics</h3>
+      <p align="center">Analytics dashboard for commits, contributors, languages, stars, forks, PDF/CSV exports & more via the GitHub API</p>
+      <p align="center"><a href="https://git-hub-repository-analytics-backen.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">🤖 AI Resume Analyzer</h3>
@@ -83,8 +97,8 @@ I'm a **Backend Developer** at **Cloud Revel Innovations**, building scalable we
       <p align="center"><a href="https://smart-agri-connect-gamma.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
     </td>
     <td width="50%">
-      <h3 align="center">🧠 Self-AI Assistant</h3>
-      <p align="center">AI-powered productivity and automation assistant</p>
+      <h3 align="center">🧠 Self AI</h3>
+      <p align="center">AI-powered search platform focused on intelligent information retrieval and user interaction</p>
       <p align="center"><a href="https://self-ai-seven.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
     </td>
   </tr>
@@ -95,21 +109,37 @@ I'm a **Backend Developer** at **Cloud Revel Innovations**, building scalable we
       <p align="center"><a href="https://explore-city-phi.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 IP Location Tracker</h3>
-      <p align="center">Location tracking application powered by IP Address APIs</p>
+      <h3 align="center">🌐 IP Locator</h3>
+      <p align="center">Location tracking platform using IP address geolocation with a responsive UI</p>
       <p align="center"><a href="https://ip-bice-rho.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
     </td>
   </tr>
+</table>
+
+<div align="center">
+  <sub>💼 See the full case studies on my <a href="https://portfolio-seven-blond-mvipujv79o.vercel.app/">portfolio</a></sub>
+</div>
+
+<br/>
+
+## 🎨 Creative & Interactive Projects
+
+<table>
   <tr>
-    <td width="50%">
-      <h3 align="center">📊 GitHub Repository Analytics</h3>
-      <p align="center">Analytics dashboard for commits, contributors, languages, stars, forks & more via GitHub APIs</p>
-      <p align="center"><a href="https://git-hub-repository-analytics-backen.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
+    <td width="33%">
+      <h3 align="center">🖥️ DP System</h3>
+      <p align="center">A futuristic, cyber-inspired HUD interface with interactive visuals and animations</p>
+      <p align="center"><a href="https://dp-hud.vercel.app/"><img src="https://img.shields.io/badge/Explore-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
     </td>
-    <td width="50%">
-      <h3 align="center">💼 Portfolio Website</h3>
-      <p align="center">Personal portfolio showcasing projects, skills, and professional journey</p>
-      <p align="center"><a href="https://portfolio-seven-blond-mvipujv79o.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
+    <td width="33%">
+      <h3 align="center">⚔️ Breath of Shadows</h3>
+      <p align="center">A Demon Slayer-inspired fan tribute with atmospheric visuals and anime-styled storytelling</p>
+      <p align="center"><a href="https://demon-slayer-two.vercel.app/"><img src="https://img.shields.io/badge/Explore-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🥷 Shadow Ninja Arena</h3>
+      <p align="center">A browser-based combat game prototype with combos, abilities, and survival gameplay</p>
+      <p align="center"><a href="https://sample-game-orcin.vercel.app/"><img src="https://img.shields.io/badge/Play-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
     </td>
   </tr>
 </table>
@@ -127,20 +157,28 @@ I'm a **Backend Developer** at **Cloud Revel Innovations**, building scalable we
 
 <br/>
 
+## 📈 My Journey
+
+- **2024** — Started my Full Stack Development journey, exploring HTML, CSS, JavaScript, and backend technologies from the ground up
+- **2025** — Built and deployed AI, e-commerce, and SaaS applications, deepening expertise in Node.js, Laravel, and PostgreSQL
+- **2026 (Now)** — Working professionally as a Backend Developer, focused on scalable web solutions, microservices, and production-grade backend systems
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Praveenjaisingh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Praveen's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenjaisingh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" /> -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Praveenjaisingh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Praveen's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenjaisingh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
 <br/>
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenjaisingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenjaisingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenjaisingh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenjaisingh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -153,7 +191,7 @@ I'm a **Backend Developer** at **Cloud Revel Innovations**, building scalable we
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-seven-blond-mvipujv79o.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Praveen-j-37b64632b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praveenjaisingh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveendp146@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveendp143@gmail.com)
 
 </div>
 
