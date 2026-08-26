@@ -159,9 +159,9 @@ I'm a **Full Stack / Backend Developer** currently working at **Cloud Revel Inno
 
 ## 📈 My Journey
 
-- **2024** — Started my Full Stack Development journey, exploring HTML, CSS, JavaScript, and backend technologies from the ground up
-- **2025** — Built and deployed AI, e-commerce, and SaaS applications, deepening expertise in Node.js, Laravel, and PostgreSQL
-- **2026 (Now)** — Working professionally as a Backend Developer, focused on scalable web solutions, microservices, and production-grade backend systems
+- **2024** — Started my Full Stack Development journey, building a strong foundation in HTML, CSS, JavaScript, and backend technologies from the ground up
+- **2025** — Joined a company as a Backend Developer, gaining professional experience while building and deploying AI, e-commerce, and SaaS applications with Node.js, Laravel, and PostgreSQL
+- **2026 (Now)** — Continuing as a Backend Developer, focused on scalable web solutions, microservices, system architecture, and production-grade backend systems
 
 <br/>
 
