@@ -114,6 +114,13 @@ I'm a **Full Stack / Backend Developer** currently working at **Cloud Revel Inno
       <p align="center"><a href="https://ip-bice-rho.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
     </td>
   </tr>
+  <tr>
+     <td width="50%">
+      <h3 align="center">🛠️ ServeHub</h3>
+      <p align="center">Service-based platform that connects users with available services through a simple, user-friendly, and responsive web interface.</p>
+      <p align="center"><a href="https://servehub-theta.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
