@@ -22,7 +22,7 @@ I'm a **Full Stack / Backend Developer** currently working at **Cloud Revel Inno
 - 🏢 Currently working at **Cloud Revel Innovations**
 - 🌱 Deepening expertise in **System Design**, **Cloud Technologies**, and **Generative AI**
 - 🎯 Focused on crafting impactful, real-world software solutions
-- 📍 Based in **Madurai, Tamil Nadu, India**
+- 📍 Based in **Chennai, Tamil Nadu, India**
 - 📫 Reach me at **praveendp143@gmail.com**
 - 🟢 Open to full-time roles — remote or on-site
 
