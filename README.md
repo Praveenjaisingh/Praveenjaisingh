@@ -123,8 +123,20 @@ I'm a **Full Stack / Backend Developer** currently working at **Cloud Revel Inno
      <td width="50%"> 
        <h3 align="center">📧 Hiver Support Dashboard</h3> 
        <p align="center">Responsive customer support dashboard for managing conversations, assignments, and team workflows with an intuitive and modern user interface.</p>
-       <p align="center"><a href="https://hiver-sde-assignment-one.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></p> 
+       <p align="center"><a href="https://hiver-sde-assignment-one.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"/></a></p> 
      </td> 
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌇 Dusk</h3>
+      <p align="center">Full-stack web application built with Java Spring Boot, featuring REST APIs and a structured backend architecture. (Replace with what Dusk does.)</p>
+      <p align="center"><a href="https://dusk-m7ma.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00ADB5?style=for-the-badge&logo=render&logoColor=white"/></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 Marketplace</h3>
+      <p align="center">Online marketplace platform built with Java Spring Boot, connecting buyers and sellers with authentication, listings, and orders. (Adjust to the real features.)</p>
+      <p align="center"><a href="https://marketplace-w2lc.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00ADB5?style=for-the-badge&logo=render&logoColor=white"/></a></p>
+    </td>
   </tr>
 </table>
 
